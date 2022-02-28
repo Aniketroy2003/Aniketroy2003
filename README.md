@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Roy</h1>
-<h3 align="center">A passionate Backened developer from India</h3>
+<h3 align="center">A human in a voyage to explore the world of software!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketroy2003&label=Profile%20views&color=0e75b6&style=flat" alt="aniketroy2003" /> </p>
 
